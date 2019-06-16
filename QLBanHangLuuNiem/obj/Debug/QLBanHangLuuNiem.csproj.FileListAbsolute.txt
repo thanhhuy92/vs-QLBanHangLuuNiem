@@ -1,0 +1,16 @@
+D:\ado.net\QLBanHangLuuNiem\QLBanHangLuuNiem\bin\Debug\QLBanHangLuuNiem.exe.config
+D:\ado.net\QLBanHangLuuNiem\QLBanHangLuuNiem\bin\Debug\QLBanHangLuuNiem.exe
+D:\ado.net\QLBanHangLuuNiem\QLBanHangLuuNiem\bin\Debug\QLBanHangLuuNiem.pdb
+D:\ado.net\QLBanHangLuuNiem\QLBanHangLuuNiem\obj\Debug\QLBanHangLuuNiem.csprojAssemblyReference.cache
+D:\ado.net\QLBanHangLuuNiem\QLBanHangLuuNiem\obj\Debug\QLBanHangLuuNiem.frmMain.resources
+D:\ado.net\QLBanHangLuuNiem\QLBanHangLuuNiem\obj\Debug\QLBanHangLuuNiem.frmDMChatLieu.resources
+D:\ado.net\QLBanHangLuuNiem\QLBanHangLuuNiem\obj\Debug\QLBanHangLuuNiem.Properties.Resources.resources
+D:\ado.net\QLBanHangLuuNiem\QLBanHangLuuNiem\obj\Debug\QLBanHangLuuNiem.csproj.GenerateResource.cache
+D:\ado.net\QLBanHangLuuNiem\QLBanHangLuuNiem\obj\Debug\QLBanHangLuuNiem.csproj.CoreCompileInputs.cache
+D:\ado.net\QLBanHangLuuNiem\QLBanHangLuuNiem\obj\Debug\QLBanHangLuuNiem.exe
+D:\ado.net\QLBanHangLuuNiem\QLBanHangLuuNiem\obj\Debug\QLBanHangLuuNiem.pdb
+D:\ado.net\QLBanHangLuuNiem\QLBanHangLuuNiem\obj\Debug\QLBanHangLuuNiem.frmDMNhanVien.resources
+D:\ado.net\QLBanHangLuuNiem\QLBanHangLuuNiem\obj\Debug\QLBanHangLuuNiem.frmDMHang.resources
+D:\ado.net\QLBanHangLuuNiem\QLBanHangLuuNiem\obj\Debug\QLBanHangLuuNiem.frmDMKhachHang.resources
+D:\ado.net\QLBanHangLuuNiem\QLBanHangLuuNiem\obj\Debug\QLBanHangLuuNiem.frmHoaDonBan.resources
+D:\ado.net\QLBanHangLuuNiem\QLBanHangLuuNiem\obj\Debug\QLBanHangLuuNiem.frmTimHDBan.resources
